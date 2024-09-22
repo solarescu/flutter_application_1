@@ -1,0 +1,1 @@
+ /Users/solarescu/Developer/100\ Days\ of\ Flutter/Day\ 3/flutter_application_1/.dart_tool/flutter_build/63e82ba99ec03f9cd6dcb08b8107e408/native_assets.yaml: 
